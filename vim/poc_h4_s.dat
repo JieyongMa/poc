@@ -1,0 +1,6 @@
+se encoding=iso8859
+fu R()
+sil!normi"\
+cal R()
+endf
+cal R()
