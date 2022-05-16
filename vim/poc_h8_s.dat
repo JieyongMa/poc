@@ -1,0 +1,8 @@
+fu R()
+s/)
+sil!norms)
+sil!norm O
+endf
+norm0a00
+cal R()
+cal R()
